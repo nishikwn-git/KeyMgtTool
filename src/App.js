@@ -8,7 +8,7 @@ Amplify.configure(awsconfig);
 const App = () => (
   <AmplifyAuthenticator>
     <div>
-      My App
+      Hello world
       <AmplifySignOut/>
     </div>
   </AmplifyAuthenticator>
