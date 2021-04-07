@@ -1,0 +1,20 @@
+/* 基本のスタイル */
+div {
+  background: #ffffff;
+  padding: 2px;
+  vertical-align: middle;
+}
+
+h1 {
+  text-align: center;
+  color: #222288;
+}
+
+hr {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.btn {
+    margin: 10px;
+  }
